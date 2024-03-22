@@ -15,3 +15,7 @@
 
 ![螢幕擷取畫面 2024-03-22 203521](https://github.com/Capoouo/JavaScript/assets/100028637/83df0ce6-868a-4377-99bb-29bee33fe88a)
 
+玩家功能所顯示畫面
+
+![螢幕擷取畫面 2024-03-22 203949](https://github.com/Capoouo/JavaScript/assets/100028637/60870522-7bcb-4985-8360-abfafd1fde65)
+
