@@ -1,8 +1,4 @@
-/*
-武器屬性提升範本
-大寶貝
-QQ : 423283141
-*/
+
 
 var ax1 = "#fMap/MapHelper.img/minimap/match#";
 var ax2 = "#fEffect/CharacterEff/1042176/2/0#";
