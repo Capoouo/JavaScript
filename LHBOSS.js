@@ -26,7 +26,7 @@ let EXIT_MAP = 800000000;
 
 let DEATH_COUNT = 5;
 
-let BOSS_LOG = "龙虎BOSS";
+let BOSS_LOG = "BOSS";
 let party;
 let members;
 let endTime;
