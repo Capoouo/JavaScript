@@ -28,7 +28,7 @@ let maxPlayers = 1;
 let minLevel = 50;
 let maxLevel = 300;
 let maxenter = 1;
-let PQLog = "龙虎BOSS";
+let PQLog = "BOSS";
 
 let sel = npc.askMenu("#e<月亮道館>\r\n#r注意 : 此副本為Moon谷畢業副本，難度極高。\r\n#b#n\r\n\r\n#v4310260#<創世精華> x 1\r\n#v4310218#<妖怪硬幣> x 10\r\n#v2633616#<AUT自選> x 20\r\n #r每天最多進入1次\r\n#b#L1#我想進入月亮道館。#l");//#L2#我想尋找組隊。#l\r\n#L4#我想領取#t1022073#。#l#l\r\n
 switch (sel) {
